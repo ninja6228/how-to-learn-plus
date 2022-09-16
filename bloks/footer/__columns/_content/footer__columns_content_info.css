@@ -1,0 +1,5 @@
+.footer__columns_content_info {
+    flex-basis: content;
+    flex-direction: column;
+    justify-content: start;
+  }
