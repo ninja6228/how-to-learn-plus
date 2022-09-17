@@ -1,11 +1,11 @@
-.footer__columns-link {
+.footer__column-link {
   display: flex;
   gap: 0 8px;
   text-decoration: none;
   color: #fff;
 }
 
-.footer__columns-link:hover {
+.footer__column-link:hover {
   opacity: 0.4;
   transition: 1s;
 }
