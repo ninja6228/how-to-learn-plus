@@ -1,3 +1,8 @@
+.resources__logo {
+  transition: .8s;
+}
+
+
 .resources__logo:hover {
   box-shadow: 10px 5px 5px rgba(189, 189, 189, .5);
   border: none;
